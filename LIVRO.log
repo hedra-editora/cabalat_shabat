@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  25 SEP 2019 14:36
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  25 SEP 2019 17:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1523,6 +1523,10 @@ Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1595,27 +1599,25 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
  [9] [10] [11] [12
 
 ] [13]
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
 Missing character: There is no ‏ in font Linux Libertine O/OT:script=latn;langu
 age=DFLT;protrusion=default, expansion=default;+onum;mapping=tex-text;!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 120.
+(Font)              <12> on input line 121.
 
-Underfull \hbox (badness 4024) in paragraph at lines 120--120
+Underfull \hbox (badness 4024) in paragraph at lines 121--121
 []\TU/LinuxLibertineO(0)/m/n/10 1. []Baruch atá Adonai,/ Eloheinu melech haolam
 ,/ asher
  []
 
-[14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25]
-Overfull \vbox (1.05022pt too high) has occurred while \output is active []
-
-
-[26] [27] [28])) [29] 
+[14] [15] [16]
+Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
+Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
+ [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
+[29] [30])) [31] 
 AED: lastpage setting LastPage
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 58.
-[30
+[32
 
 
 ]
@@ -1624,12 +1626,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  (./LIVRO.aux (./INPUTS.aux)) ) 
 Here is how much of TeX's memory you used:
- 26100 strings out of 492998
- 477906 string characters out of 6139960
- 695561 words of memory out of 5000000
- 29624 multiletter control sequences out of 15000+600000
- 541843 words of font info for 91 fonts, out of 8000000 for 9000
+ 26105 strings out of 492998
+ 478264 string characters out of 6139960
+ 695601 words of memory out of 5000000
+ 29627 multiletter control sequences out of 15000+600000
+ 541859 words of font info for 93 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  48i,12n,86p,10345b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (30 pages, 178640 bytes).
+Output written on LIVRO.xdv (32 pages, 194860 bytes).

@@ -3,16 +3,10 @@
 \contentsline {chapter}{Nota da organizadora, \emph {por Fabiana Gampel Grinberg}}{7}
 \contentsline {chapter}{Introdução ao \emph {cabalat shabat}, \emph {por Gabriel Neistein}}{9}
 \contentsline {part}{Cabalat Shabat}{13}
-\contentsline {section}{Bênção das velas}{14}
-\contentsline {section}{}{15}
-\contentsline {section}{Iedid Nefesh}{16}
-\contentsline {section}{}{17}
-\contentsline {section}{Lechá Dodi}{20}
-\contentsline {section}{}{21}
-\contentsline {section}{Shalom Aleichem}{24}
-\contentsline {section}{}{25}
-\contentsline {section}{Kidush}{26}
-\contentsline {section}{}{27}
-\contentsline {section}{Benção da chalá}{28}
-\contentsline {section}{}{29}
+\contentsline {chapter}{Bênção das velas}{14}
+\contentsline {chapter}{Iedid Nefesh}{16}
+\contentsline {chapter}{Lechá Dodi}{20}
+\contentsline {chapter}{Shalom Aleichem}{24}
+\contentsline {chapter}{Kidush}{26}
+\contentsline {chapter}{Benção da chalá}{30}
 \contentsfinish 
