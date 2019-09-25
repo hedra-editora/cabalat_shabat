@@ -1,0 +1,18 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Nota da organizadora, \emph {por Fabiana Gampel Grinberg}}{7}
+\contentsline {chapter}{Introdução ao \emph {cabalat shabat}, \emph {por Gabriel Neistein}}{9}
+\contentsline {part}{Cabalat Shabat}{13}
+\contentsline {section}{Bênção das velas}{14}
+\contentsline {section}{}{15}
+\contentsline {section}{Iedid Nefesh}{16}
+\contentsline {section}{}{17}
+\contentsline {section}{Lechá Dodi}{20}
+\contentsline {section}{}{21}
+\contentsline {section}{Shalom Aleichem}{24}
+\contentsline {section}{}{25}
+\contentsline {section}{Kidush}{26}
+\contentsline {section}{}{27}
+\contentsline {section}{Benção da chalá}{28}
+\contentsline {section}{}{29}
+\contentsfinish 
