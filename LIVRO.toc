@@ -2,7 +2,7 @@
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Nota da organizadora, \emph {por Fabiana Gampel Grinberg}}{7}
 \contentsline {chapter}{Introdução ao \emph {cabalat shabat}, \emph {por Gabriel Neistein}}{9}
-\contentsline {part}{Cabalat Shabat}{11}
+\contentsline {part}{Cabalat shabat}{11}
 \contentsline {chapter}{Bênção das velas}{12}
 \contentsline {chapter}{Iedid Nefesh}{14}
 \contentsline {chapter}{Lechá Dodi}{16}

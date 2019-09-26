@@ -242,6 +242,8 @@ INPUT /home/editorial/texmf/tex/versos.sty
 INPUT /home/editorial/texmf/tex/versos.sty
 INPUT gitrevisioninfo.sty
 INPUT gitrevisioninfo.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/multicol.sty
 INPUT LIVRO.aux
 INPUT LIVRO.aux
 INPUT INPUTS.aux
@@ -273,14 +275,9 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /home/editorial/texmf/tex/frontconselho.tex
-INPUT /home/editorial/texmf/tex/frontconselho.tex
-INPUT /usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT frontconselho.tex
+INPUT frontconselho.tex
+INPUT ./logo.png
 INPUT LIVRO.toc
 INPUT LIVRO.toc
 OUTPUT INPUTS.aux
