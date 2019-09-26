@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1569516538 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1569516539
-  "LIVRO.xdv" 1569516538 201684 47ec9610fd99a744583c6df2689bd35e "xelatex"
+["xdvipdfmx"] 1569526700 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1569526700
+  "LIVRO.xdv" 1569526699 201056 00bf29be7a9a0897d2ebc2088f81e9a4 "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1569516536 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1569516539
+["xelatex"] 1569526697 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1569526700
   "/home/editorial/texmf/tex/aparatos.sty" 1496083773 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/frontconselho.tex" 1522961913 226 584f41f462c1f25d6bb931b7ede1fa94 ""
   "/home/editorial/texmf/tex/frontlayout.sty" 1522961913 1454 12134bf9b3d761fd4c3d46f05ff90c4c ""
@@ -154,21 +154,21 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1501615463 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1501615481 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1509478212 4066395 6b322c5d2cda5c7d3fa6f2e6378d2f25 ""
-  "INPUTS.aux" 1569516538 2349 6c6f5daa684867f61402e229cc2606ea ""
+  "INPUTS.aux" 1569526699 2349 6c6f5daa684867f61402e229cc2606ea ""
   "INPUTS.tex" 1569430202 13 601ddc93c2b468c0b35b4ed83cc3c2b1 ""
-  "LIVRO.aux" 1569516538 472 60bde09fedb87541e60808e0894cb2c1 ""
+  "LIVRO.aux" 1569526699 472 60bde09fedb87541e60808e0894cb2c1 ""
   "LIVRO.tex" 1569515250 1536 f99dc163dc1f5b2590ffc59bebd24649 ""
-  "LIVRO.toc" 1569516538 575 5849e9204061c165f7164a47f005abe2 ""
-  "TEXTO.tex" 1569516532 17268 68119b1882c123dffdb0d2de716c49b4 ""
+  "LIVRO.toc" 1569526699 575 5849e9204061c165f7164a47f005abe2 ""
+  "TEXTO.tex" 1569526694 17219 4e04b7eb64c0965446ea7c89c5de7e78 ""
   "fichatecnica.sty" 1569445626 2123 d61b35cd0377623c573ad2869ad1956a ""
   "fronthedra.tex" 1569432883 3901 413d615a868e6e5d02711e5717521782 ""
-  "gitrevisioninfo.sty" 1569516536 35 a7e7ba4fc57a74c0b3e9e774bf8ff627 ""
+  "gitrevisioninfo.sty" 1569526697 35 3134579b0a3407bf7913f1f9f8cc971d ""
   "hedraoptions.sty" 1569515229 3582 a4337dc8ddc2cbc24309d2feaf7f37e4 ""
   (generated)
-  "LIVRO.toc"
-  "INPUTS.aux"
-  "PUBLICIDADE.aux"
-  "TEXTO.aux"
-  "LIVRO.log"
   "LIVRO.xdv"
+  "TEXTO.aux"
+  "INPUTS.aux"
+  "LIVRO.toc"
   "LIVRO.aux"
+  "PUBLICIDADE.aux"
+  "LIVRO.log"

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  26 SEP 2019 13:48
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  26 SEP 2019 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1636,4 +1636,4 @@ Here is how much of TeX's memory you used:
  1372 hyphenation exceptions out of 8191
  48i,11n,86p,10371b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (24 pages, 201684 bytes).
+Output written on LIVRO.xdv (24 pages, 201056 bytes).
