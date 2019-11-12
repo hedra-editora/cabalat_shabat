@@ -1,4 +1,4 @@
-PWD /home/editorial/LATEX/cabalat_shabat
+PWD /home/editorial/LATEX/OLD/cabalat_shabat
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
 INPUT LIVRO.tex

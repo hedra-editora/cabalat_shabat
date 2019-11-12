@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1569595317 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1569595318
-  "LIVRO.xdv" 1569595317 201924 a05b48050ec41c92959795807ced11cc "xelatex"
+["xdvipdfmx"] 1573580139 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1573580139
+  "LIVRO.xdv" 1573580138 200668 b0c795256538942ec07b782d4be63c79 "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1569595315 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1569595318
+["xelatex"] 1573580136 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1573580139
   "/home/editorial/texmf/tex/aparatos.sty" 1496083773 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/frontlayout.sty" 1522961913 1454 12134bf9b3d761fd4c3d46f05ff90c4c ""
   "/home/editorial/texmf/tex/graficos.sty" 1496083774 5068 7d4601d85de608fb3bf9e0186715447a ""
@@ -151,21 +151,21 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1501615463 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1501615481 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1509478212 4066395 6b322c5d2cda5c7d3fa6f2e6378d2f25 ""
-  "INPUTS.aux" 1569595317 2349 303e1c8e8cafcbaaf09f65ad4a764801 ""
+  "INPUTS.aux" 1573580138 2349 ef734ed0c5b2806c3a86e54b57e548f3 ""
   "INPUTS.tex" 1569430202 13 601ddc93c2b468c0b35b4ed83cc3c2b1 ""
-  "LIVRO.aux" 1569595317 472 60bde09fedb87541e60808e0894cb2c1 ""
-  "LIVRO.tex" 1569536417 1558 017c739cebe8208a6024c682b12a4e9d ""
-  "LIVRO.toc" 1569595317 575 2f8462476da10a79f8e0147491c918bb ""
-  "TEXTO.tex" 1569537084 17084 a757552d9010dc2478a4dd5c2312411e ""
+  "LIVRO.aux" 1573580138 472 eef3326d6b3078ac902ac8835c3ffd4b ""
+  "LIVRO.tex" 1573578776 1558 6187f46be21934094d4af83447dd6f94 ""
+  "LIVRO.toc" 1573580138 575 a528fa284021d491628b42d144d99b1f ""
+  "TEXTO.tex" 1573579132 17206 49bb2c5404045dccebb020a37838aefd ""
   "fichatecnica.sty" 1569535087 2159 9479ca2f2eb3ba455b938086bc466340 ""
   "frontconselho.tex" 1569537043 195 d1b8109bcc22f59e456e302ef67d8846 ""
-  "fronthedra.tex" 1569595312 4052 49424fb871c2526ec0a3742c5a63afaf ""
-  "gitrevisioninfo.sty" 1569595315 35 08eb86c70d563a526e4257150a9770c7 ""
-  "hedraoptions.sty" 1569515229 3582 a4337dc8ddc2cbc24309d2feaf7f37e4 ""
+  "fronthedra.tex" 1573580134 4110 641717db5166c1a01909ffd407374576 ""
+  "gitrevisioninfo.sty" 1573580136 35 e2f9560dd31959a3e4133b41384bb162 ""
+  "hedraoptions.sty" 1573578771 3872 9e5f188458b4c962cf9b3056976a7b92 ""
   "logo.png" 1569534910 86170 23f831c513f3891025e52493d4381b71 ""
   (generated)
-  "LIVRO.xdv"
-  "LIVRO.log"
   "LIVRO.toc"
   "INPUTS.aux"
+  "LIVRO.log"
   "LIVRO.aux"
+  "LIVRO.xdv"
