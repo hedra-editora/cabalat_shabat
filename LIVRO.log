@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  12 NOV 2019 15:21
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  14 NOV 2019 18:10
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.231 seconds
+luaotfload | main : initialization completed in 0.230 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1738,14 +1738,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
 Package caption Info: End \AtBeginDocument code.
-(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmm
-ono12-regular.luc)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmtt' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmm
-ono8-regular.luc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 Missing character: There is no ‏ (U+200F) in font LinuxLibertineO:mode=node;sc
 ript=latn;language=DFLT;+tlig;+smcp;!
@@ -1766,7 +1759,7 @@ RS)
 [2
 
 ]
-<./logo.png, id=14, pagebox=cropbox, 364.9635pt x 364.9635pt>
+<./logo.png, id=13, pagebox=cropbox, 364.9635pt x 364.9635pt>
 File: ./logo.png Graphic file (type png)
 <use ./logo.png>
 Package luatex.def Info: ./logo.png  used on input line 56. on input line 56.
@@ -1786,8 +1779,7 @@ ript=latn;language=DFLT;+tlig;+smcp;!
 
 
 ]
-[7] [8](load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/
-otl/lmmono10-regular.luc) [9
+[7] [8] [9
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1796,15 +1788,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [13]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 124.
+(Font)              <12> on input line 126.
  [14
 Missing character: There is no ‏ (U+200F) in font LinuxLibertineO:mode=node;sc
 ript=latn;language=DFLT;+tlig;!
-] [15] [16] [17] [18]
-[19] [20] [21] [22] [23] [24] [25] [26] [27] [28])) [29]
+] [15] [16] [17] [18] [19] [20] [21]
+[22] [23] [24] [25] [26] [27] [28] [29] [30])) [31]
 
 AED: lastpage setting LastPage
-[30
+[32
 
 
 ]
@@ -1814,26 +1806,25 @@ AED: lastpage setting LastPage
  (./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24272 strings out of 494472
+ 24261 strings out of 494472
  100000,794899 words of node,token memory allocated
  1596 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 26 glue, 1 penalty, 112 attribute, 198 glue_spec, 2
 8 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:1079,3:49,4:34,5:200,6:1720,7:467,8:62,9:195,10:18,11:205
- 27267 multiletter control sequences out of 65536+600000
- 91 fonts using 18594223 bytes
- 50i,12n,70p,1356b,446s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:2,2:999,3:48,4:34,5:194,6:1686,7:442,8:58,9:180,10:18,11:205
+ 27261 multiletter control sequences out of 65536+600000
+ 88 fonts using 18215959 bytes
+ 50i,14n,70p,1356b,446s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist
 /fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/font
-s/opentype/public/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/open
-type/public/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/arkandis/a
-dforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfo
-nt/lcirclew.pfb>
-Output written on LIVRO.pdf (30 pages, 170978 bytes).
+s/opentype/public/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/type
+1/arkandis/adforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/ams
+fonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (32 pages, 165656 bytes).
 
 PDF statistics: 137 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
+ 89 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
