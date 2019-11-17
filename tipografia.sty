@@ -106,14 +106,22 @@
 %\newcommand{\asterisc}{\vspace{-1ex}\begin{center} ***\vspace{-2ex}\end{center}}
 %\newcommand{\asterisc}{\vspace{-1ex}\begin{center} \adforn{47}\end{center}}
 \newcommand{\asterisc}{\begin{center}\raisebox{-3pt}{*\,*\,*}\end{center}}
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> master
 %%%%%%%%%%% COMPILADOR: PDFTEX--XETEX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 \DeclareOption{ebook}{\AtEndOfClass{\RequirePackage{ucs}
+<<<<<<< HEAD
 %\RequirePackage[utf8]{inputenc}
 %\RequirePackage[english,italian,ngerman,french,russian,brazilian]{babel}
+=======
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[english,italian,ngerman,french,russian,brazilian]{babel}
+>>>>>>> master
 \DeclareLanguage{brazilian}{pr-BR} % German language ebook
 \newcommand{\port}{\selectlanguage{brazilian}}
 \newcommand{\pt}[1]{\foreignlanguage{brazilian}{#1}}
@@ -145,9 +153,15 @@
 
 \DeclareOption{pdftex}{\AtEndOfClass{\RequirePackage{ucs}
 \RequirePackage[protrusion=true,expansion]{microtype}
+<<<<<<< HEAD
 %\RequirePackage[utf8]{inputenc}
 %\RequirePackage[LGR,T1,T2A]{fontenc}
 %\RequirePackage[polutonikogreek,english,italian,ngerman,french,russian,brazilian]{babel}
+=======
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[LGR,T1,T2A]{fontenc}
+\RequirePackage[polutonikogreek,english,italian,ngerman,french,russian,brazilian]{babel}
+>>>>>>> master
 %\RequirePackage[adobe-utopia]{mathdesign}
 \newcommand{\port}{\selectlanguage{brazilian}}
 \newcommand{\pt}[1]{\foreignlanguage{brazilian}{#1}}
@@ -182,6 +196,7 @@
 }}
 
 \DeclareOption{xetex}{\AtEndOfClass{%
+<<<<<<< HEAD
 %\RequirePackage{fontspec}
 %\RequirePackage[polutonikogreek,english,italian,ngerman,french,russian,brazilian]{babel}
 \RequirePackage[protrusion=true,final]{microtype}
@@ -210,6 +225,35 @@
 \newfontfamily\china{WenQuanYi Micro Hei}
 \newcommand{\chin}[1]{{\normalfont\china #1}}
 \newcommand{\testechines}{\chin{道德經}}
+=======
+\RequirePackage[polutonikogreek,english,italian,ngerman,french,russian,brazilian]{babel}
+\RequirePackage[protrusion=true,final]{microtype}
+\RequirePackage{fontspec}
+\RequirePackage{luatextra}
+\newfontfeature{Microtype}{protrusion=default, expansion=default}
+%\RequirePackage{xunicode}
+%\RequirePackage{polyglossia}
+%\setmainlanguage{portuges}
+%\newcommand{\port}{\selectlanguage{brazilian}}
+%\newcommand{\pt}[1]{\foreignlanguage{brazilian}{#1}}
+%\newcommand{\Italiano}{\selectlanguage{italian}}
+%\newcommand{\Alemao}{\selectlanguage{ngerman}}
+%%\newcommand{\alemao}{\foreignlanguage{ngerman}{#1}}
+%\newcommand{\Frances}{\selectlanguage{french}}
+%\newcommand{\Ingles}{\selectlanguage{english}}
+%\newcommand{\Russo}{\selectlanguage{russian}}
+%\newcommand{\gr}[1]{#1}
+%%\defaultfontfeatures{Ligatures=TeX}        Conflito com Microtype
+\setmainfont{Linux Libertine O}
+%%\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Charis SIL}
+%%% translineação
+%\newcommand{\letra}[2]{\lettrine[lines=3,nindent=-.1mm,findent=2mm]{#1}{#2}}
+%\defineshorthand{"-}{\discretionary{-}{-}{-}} 
+%\newcommand{\quebra}{\linebreak}
+%\newfontfamily\china{WenQuanYi Micro Hei}
+%\newcommand{\chin}[1]{{\normalfont\china #1}}
+%\newcommand{\testechines}{\chin{道德經}}
+>>>>>>> master
 }}
 
 %%%%%%%%%%% FONTES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
