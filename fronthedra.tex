@@ -9,12 +9,12 @@
 \linha{copyright}{\copyrightlivro}
 \linhalayout{edição brasileira©}{Ayllon \ifdef{\ano}{\ano}{\the\year}}
 \linha{tradução©}{\copyrighttraducao}
-\linha{organização©}{\copyrightorganizacao}
+\linhalayout{organização e tradução©}{Fabiana Gampel Grinberg}
 \linha{prefácio©}{\copyrightintroducao}
 \linha{ilustração©}{\copyrightilustracao}\smallskip
 \linha{título original}{\titulooriginal}
 \linha{edição consultada}{\edicaoconsultada}
-\linha{primeira edição}{\primeiraedicao}
+%\linha{primeira edição}{\primeiraedicao}
 \linha{agradecimentos}{\agradecimentos}
 \linha{indicação}{\indicacao}\smallskip
 \linha{edição}{\edicao}
@@ -23,7 +23,7 @@
 \linha{revisão}{\revisao}
 \linha{preparação}{\preparacao}
 \linha{iconografia}{\iconografia}
-\linha{capa}{\capa}
+\linhalayout{projeto gráfico}{Lucas Kröeff}
 \linha{imagem da capa}{\imagemcapa}\smallskip
 %\linha{ISBN}{\ISBN}\smallskip
 \begingroup\tiny\smallskip
@@ -41,7 +41,7 @@ Portuguesa de 1990, em vigor no Brasil desde 2009.}\\
 
 %
 \textsc{ayllon editora}\\
-R.~Fradique Coutinho, 1139 (subsolo)\\
+R.~Fradique Coutinho, 1139\\
 05416--011 São Paulo \textsc{sp} Brasil\\
 Telefone/Fax +55 11 3097 8304\\\smallskip
 ayllon@hedra.com.br\\
@@ -61,7 +61,7 @@ Foi feito o depósito legal.\\\endgroup
 
 %logos
 \vfill
-\ifdef{\logo}{\IfFileExists{\logo}{\hfill\includegraphics[width=3cm]{./logo.png}\hfill\logoum{}\\ São Paulo\_2018}}{\includegraphics[width=3cm]{./logo.png}\break{} São Paulo\_2019}
+\ifdef{\logo}{\IfFileExists{\logo}{\hfill\includegraphics[width=3cm]{./logo.png}\hfill\logoum{}\\ São Paulo\_2018}}{\includegraphics[width=3cm]{./logo.png}\break{} São Paulo\_2020}
 %\includegraphics[width=.4\textwidth,trim=0 0 25 0]{logo.jpg}\\\smallskip
 \par\clearpage\endgroup
 % Resumo -------------------------------------------------------
@@ -96,7 +96,7 @@ Foi feito o depósito legal.\\\endgroup
 \begin{center}
 \begin{minipage}{.8\textwidth}
 \centering\tiny\noindent{}Esta publicação é uma edição especial e primeiro\\lançamento da Ayllon Editora, com tiragem limitada\\ e numerada de 200 exemplares. \versal{ISBN: 978-85-7715-610-8}\\\vspace{5pt}Adverte-se aos curiosos que se imprimiu este livro \ifdef{\grafica}{na gráfica \grafica}{em nossas oficinas}, 
-em 27 de setembro de 2019\ifdef{\papelmiolo}{em papel \papelmiolo}, em tipologia \tipopadrao{}, com diversos sofwares livres, 
+em \today \ifdef{\papelmiolo}{em papel \papelmiolo}, em tipologia \tipopadrao{}, com diversos sofwares livres, 
 entre eles, Lua\LaTeX, git \& ruby. \ifdef{\RevisionInfo{}}{\par(v.\,\RevisionInfo)}{}\par \begin{center}\normalsize\adforn{64}\end{center}
 \end{minipage}
 \end{center}
