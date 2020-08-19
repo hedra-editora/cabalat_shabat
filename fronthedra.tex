@@ -1,5 +1,5 @@
 \AtBeginDocument{%
-\begingroup\pagestyle{empty}\raggedleft\parindent0pt
+\begingroup\pagestyle{empty}\raggedright\parindent0pt
 \titulagemfront{}
 \vfill
 \clearpage
@@ -19,7 +19,8 @@
 \linha{indicação}{\indicacao}\smallskip
 \linha{edição}{\edicao}
 \linha{coedição}{\coedicao}
-\linha{assistência editorial}{\assistencia}
+\linhalayout{editor-assistente}{Paulo Henrique Pompermaier}
+%\linha{assistência editorial}{\assistencia}
 \linha{revisão}{\revisao}
 \linhalayout{revisão do hebraico}{Tauan Novarro}
 \linha{preparação}{\preparacao}
@@ -48,7 +49,7 @@ Telefone/Fax +55 11 3097 8304\\\smallskip
 ayllon@hedra.com.br\\
 \bigskip
 Foi feito o depósito legal.\\\endgroup
-\pagebreak\raggedleft
+\pagebreak\raggedright
 %% Front ---------------------------------------------------------
 % Titulo
 \titulagem
@@ -62,7 +63,7 @@ Foi feito o depósito legal.\\\endgroup
 
 %logos
 \vfill
-\ifdef{\logo}{\IfFileExists{\logo}{\hfill\includegraphics[width=3cm]{./logo.png}\hfill\logoum{}\\ São Paulo\_2018}}{\includegraphics[width=3cm]{./logo.png}\break{} São Paulo\_2020}
+\ifdef{\logo}{\IfFileExists{\logo}{\hfill\includegraphics[width=3cm]{./logo.png}\hfill\logoum{}\\ São Paulo\_2018}}{\includegraphics[width=3cm]{./logo.png}\break{} São Paulo\quad2020}
 %\includegraphics[width=.4\textwidth,trim=0 0 25 0]{logo.jpg}\\\smallskip
 \par\clearpage\endgroup
 % Resumo -------------------------------------------------------
